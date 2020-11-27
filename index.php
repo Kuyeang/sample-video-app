@@ -1,5 +1,5 @@
 <?php
 
-include-one("Video.html");
+header('Location:/Video.html');
 
 ?>
